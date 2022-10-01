@@ -1,6 +1,6 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm Jia Cheng, I majored in Software Development when I pursued BSc in Information Systems. I am a graduate, programming wiz 🧙‍♂️📚 and an algorithms enthusiast 🖥️🔢📏.
+I'm Jia Cheng, I majored in Software Development when I pursued BSc(Information Systems) in [Singapore Management University](https://scis.smu.edu.sg/). I am a graduate, programming wiz 🧙‍♂️📚 and an algorithms enthusiast 🖥️🔢📏.
 
 - 🌱 I’m currently learning Full Stack Open 2022.
 - ⚡ Fun fact: Pineapples belong on pizza.
