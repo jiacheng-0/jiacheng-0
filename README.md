@@ -7,7 +7,7 @@ I'm Jia Cheng, I majored in Software Development when I pursued BSc(Information 
 
 Codewars:
 
-![image](https://www.codewars.com/users/jiacheng-0/badges/large)
+![image](https://www.codewars.com/users/code_jason/badges/large)
 
 Leetcode:
 
